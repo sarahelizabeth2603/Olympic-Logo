@@ -1,0 +1,11 @@
+.body_background{
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+    border-width: 10px;
+}
